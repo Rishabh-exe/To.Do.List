@@ -1,0 +1,17 @@
+#ultask li.done {
+    color: #6c757d;
+    text-decoration: line-through;
+}
+#newtaskHelp {
+    font-size: 14px;
+    font-style: normal;
+    margin-left: 0.2cm;
+}
+#lbl {
+    font-size: 15px;
+    margin-bottom: 0.1cm;
+    margin-left: 0.2cm;
+}
+#btns2 {
+    margin-bottom: 3cm;
+} 
